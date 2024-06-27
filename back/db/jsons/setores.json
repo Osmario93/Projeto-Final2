@@ -1,0 +1,13 @@
+[
+    {
+      "_id": 1,
+      "codigo": "ABC456",
+      "nome": "Contas a Pagar"
+    },
+    {
+      "_id": 2,
+      "codigo": "XYZ123",
+      "nome": "Contas a Receber"
+    }
+  ]
+  

@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "sequencia": "ATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCG",
+    "individuo": 1
+  },
+  {
+    "_id": 2,
+    "sequencia": "AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA",
+    "individuo": 1
+  },
+  {
+    "_id": 3,
+    "sequencia": "CCCCCCCCCCACCCCCCCCCCCCCTCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+    "individuo": 1
+  },
+  {
+    "_id": 4,
+    "sequencia": "GAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGA",
+    "individuo": 2
+  },
+  {
+    "_id": 5,
+    "sequencia": "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTTTTTTTTTTTTTTTTT",
+    "individuo": 2
+  },
+  {
+    "_id": 6,
+    "sequencia": "GCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCG",
+    "individuo": 2
+  },
+  {
+    "_id": 7,
+    "sequencia": "CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC",
+    "individuo": 2
+  }
+]
